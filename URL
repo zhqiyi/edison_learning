@@ -1,0 +1,40 @@
+;; 英文资料
+1. https://learn.sparkfun.com/tutorials/loading-debian-ubilinux-on-the-edison
+2. https://software.intel.com/en-us/iot/library/edison-getting-started
+3. http://tw.taobao.com/item/43649354807.htm
+4. http://www.arm.so/thread-192-1-1.html
+5. http://lambda.hk/intel/2015/05/25/intel-edison-connect/
+6. http://shawnhymel.com/585/creating-a-custom-linux-kernel-for-the-edison/　Creating a Custom Linux Kernel For the Edison
+7. https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-6755541339.13.AJPgoX&id=42152469024
+8. http://lambda.hk/intel/2015/05/25/intel-edison-connect/
+9. http://www.stuq.org/my/courses/study/974
+10.http://wiki.ros.org/Edison  ****Important
+11.http://martinkronberg.com/new-blog/2015/3/18/ros-on-intel-edison-using-ubilinux-and-porting-to-yocto 
+12.https://github.com/UAVenture/ros-setups/tree/master/intel-edison
+13.https://communities.intel.com/thread/56585
+14.http://wiki.ros.org/wiki/edison   ****Important
+15.https://communities.intel.com/thread/60486
+16.https://learn.sparkfun.com/tutorials/loading-debian-ubilinux-on-the-edison
+
+;; 中文资料
+1. http://www.itronk.com/?tag=intel-edison  ****中文
+2. http://thinkingiot.blogspot.com/2015/05/intel-edison-linux.html ****中文
+3. http://www.mitgai.net/2015/02/embedded-dev/intel-edison-enable-the-bluetooth-in-yocto-and-ubilinux.html
+4. http://www.yizolabs.com/?p=586
+5. http://www.dfrobot.com.cn/community/forum.php?mod=viewthread&tid=11011
+6. http://krrxue.duapp.com/md/post/30
+7. http://maker.swjtu.edu.cn/node/87
+8. http://www.arduino.cn/thread-4526-1-1.html
+9. http://www.arduino.cn/
+10. https://software.intel.com/en-us/iot/hardware/edison/downloads ****资料下载
+11. http://www.arduino.cn/thread-10595-1-1.html
+12. http://www.itronk.com/?cat=43
+13. http://www.mitgai.net/category/embedded-dev/intel-edison
+14. http://howldb.com/p/03hg71
+15. http://www.emutexlabs.com/ubilinux/29-ubilinux/218-ubilinux-installation-instructions-for-intel-edison
+16. http://www.emutexlabs.com/project/215-intel-edison-gpio-pin-multiplexing-guide
+17. http://www.emutexlabs.com/ubilinux
+18. http://blog.sina.com.cn/s/articlelist_1712413141_7_1.html
+
+;; 日文资料
+1. http://qiita.com/yoneken/items/eda0bedec847761088c1
